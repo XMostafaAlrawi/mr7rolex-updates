@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "version": "1.0.1",
+      "shortVersion": "1.0.1",
+      "date": "2026-09-19",
+      "mandatory": false,
+      "platform": "windows",
+      "url": "https://github.com/XMostafaAlrawi/mr7rolex-updates/releases/download/v1.0.1/mr7rolex-windows.zip",
+      "changes": [
+        { "type": "feat", "message": "إضافة ميزة التحديث عن بعد" }
+      ]
+    }
+  ]
+}
